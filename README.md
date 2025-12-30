@@ -1,5 +1,4 @@
 # Web3-Minting-Platform
-🖼️ Web3-Minting-Platform
 
-
-- Automated update for PR #1-1764734744-611
+💎 **Web3-Minting-Platform**: A high-throughput NFT minting engine written in Go.
+🔗 Supports ERC-721/ERC-1155 standards and direct interaction with Ethereum nodes.
